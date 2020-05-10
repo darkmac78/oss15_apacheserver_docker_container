@@ -1,6 +1,6 @@
 mkdir /tmp/apache_dockerimage
 cd /tmp/apache_dockerimage
-wget https://raw.githubusercontent.com/darkmac78/oss15_apacheserver_docker_container/master/Dockerfile?token=AI2COIMQ5DTPZGF7KY56DQK6XAHKG
+wget https://raw.githubusercontent.com/darkmac78/oss15_apacheserver_docker_container/master/Dockerfile?token=AI2COIMQ5DTPZGF7KY56DQK6XAHKG -O Dockerfile
 clear
 ls /tmp/apache_dockerimage
 sleep 5
